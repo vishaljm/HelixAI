@@ -1,1 +1,10 @@
-# HelixAI
+# HelixAI 
+[rewrite again in own words]
+Title: HelixAI: Discovering Hidden Structures in Genetic Code through Machine Learning
+As a researcher with a deep intuition for patterns and structures, I approach scientific inquiry from a multidimensional and integrative lens. My current project, HelixAI, is a fusion of machine learning, genetic encoding, and spatial mathematics — where I explore codon 
+sequences not just as symbols, but as geometric signals with latent structure. By representing DNA codons in structured matrices and applying modern ML techniques (e.g., clustering, neural embeddings, and dimensionality reduction), I aim to uncover novel, interpretable
+insights into genomic architecture.
+My thinking thrives in complex, abstract systems. I am deeply motivated by novelty — not only in ideas, but in the way disciplines can inform each other. Biology, computer science, and mathematics are not separate domains to me; they are interconnected languages of th  
+same deep structure. I am particularly energized by reverse learning — starting with intuition, observation, or patterns, and working backward into formal models and algorithms. This mindset fuels both my research and my learning.
+What drives me most is the dual role of the scientist-teacher: the one who discovers, and the one who illuminates. I aim not only to generate new knowledge but to teach others how to think across boundaries, explore with curiosity, and build systems that learn.
+This project is the first expression of that vision.
